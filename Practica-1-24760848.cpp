@@ -15,9 +15,9 @@ for(int i = 0; i < 4; i++){
         //aumentar el numero en el contador en el siguiente numero 
         Contador++;
         //aqui mando a que imprima los valores
-        printf ( "%d" matriz[i][j]);
+        printf ( "%d", matriz[i][j]);
     }
-    printf("\n")
+    printf("\n");
 } 
 return 0;
 }
