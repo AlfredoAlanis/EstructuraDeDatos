@@ -2,7 +2,7 @@
 using namespace std;
 
 int main(){
-//variable para decidir el numero de datos que tendra la matriz en este caso 4x4
+//variable para decidir el numero de datos que tendra la matriz en este caso 4x4, ademas de que sean ceros
 int matriz[4][4] = {0};
 
 //ciclo para recorrer las filas de la matriz
