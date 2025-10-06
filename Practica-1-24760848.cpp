@@ -12,7 +12,9 @@ for(int i = 0; i < 4; i++){
     for (int j = 0; j < 4; j++)
     {
         matriz[i][j] = Contador;
+        //aumentar el numero en el contador en el siguiente numero 
         Contador++;
+        //aqui mando a que imprima los valores
         cout << matriz[i][j] << " ";
     }
     cout << endl;
